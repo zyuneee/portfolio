@@ -11,6 +11,6 @@ Data &amp; AI portfolio (Text analysis, Computer Vision)
 - Computer Vision: CNN
 - Data Visualization
 
-## 📁 Projects
-1. 흉부 X-ray 이미지 분류 모델링
-2. 이미지 노이즈 필터링
+## Portfolio Projects
+- [흉부 X-ray 이미지 분류 모델링](./chest-xray-medical-diagnosis)
+- [이미지 노이즈 필터링](./image_preprocessing_filtering)
