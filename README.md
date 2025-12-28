@@ -12,5 +12,5 @@ Data &amp; AI portfolio (Text analysis, Computer Vision)
 - Data Visualization
 
 ## 📁 Projects
-1. 흉부 X-ray 이미지 분류 모델링
+1. 흉부 X-ray 이미지 분류 모델링(chest-xray-medical-diagnosis)
 2. 이미지 노이즈 필터링 
