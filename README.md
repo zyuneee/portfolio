@@ -12,5 +12,5 @@ Data &amp; AI portfolio (Text analysis, Computer Vision)
 - Data Visualization
 
 ## 📁 Projects
-1. 흉부 X-ray 이미지 분류 모델링 https://github.com/zyuneee/portfolio/blob/main/chest-xray-medical-diagnosis/README.md
-2. 이미지 노이즈 필터링 
+1. 흉부 X-ray 이미지 분류 모델링(./chest-xray-medical-diagnosis)
+2. 이미지 노이즈 필터링 (./image_preprocessing_filtering)
